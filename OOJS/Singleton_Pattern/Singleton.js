@@ -25,7 +25,7 @@ var ShoppingKart = (function(){
             }
             console.log("Total: "+total);
         }else{
-             console.log("nothing is in kart");
+            console.log("nothing is in kart");
         }
     }
     

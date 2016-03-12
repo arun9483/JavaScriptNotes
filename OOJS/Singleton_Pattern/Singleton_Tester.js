@@ -1,4 +1,5 @@
 /* Testing of Singleton class*/
+
 var obj1 = ShoppingKart.getInstance("p01", 30);
 var obj2 = ShoppingKart.getInstance("p02", 0);
 obj2.addProduct("p3", 100);
