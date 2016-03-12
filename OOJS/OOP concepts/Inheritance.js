@@ -1,7 +1,6 @@
 /**
 *  this file help us to understand, how to how to implement inheritance in javaScript
 */
-
 (function (){
     
     /*parent class*/

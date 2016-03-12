@@ -1,7 +1,6 @@
 /**
 *  this file help us to understand, how to create object in javaScript
 */
-
 (function () { //creating namespace
     
     var obj_literal = { }; //object created using object litral

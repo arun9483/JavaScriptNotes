@@ -1,7 +1,6 @@
 /**
 *  this file help us to understand, how to Class in javaScript
 */
-
 (function () { //creating namespace
     
     function Human(name, gender){
